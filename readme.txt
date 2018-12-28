@@ -6,3 +6,5 @@ This is the first modify of the file.
 test
 
 test2
+
+master
